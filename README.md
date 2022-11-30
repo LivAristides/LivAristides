@@ -1,7 +1,7 @@
 ##Oii! Eu sou a Lívia Aristides! 👋
 
 - 🔭 Estudante de Desenvolvimento de Sistemas
-- 🌱 Estou aprendendo sobre JAVASCRIPT
+- 🌱 Estou aprendendo sobre JAVASCRIPT, HTML, CSS, ALGORITMOS E DESING DIGITAL.
 - 😄 Ela/Dela
 
 
