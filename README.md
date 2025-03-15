@@ -1,7 +1,7 @@
 Oii! Eu sou a Lívia Aristides! 👋
 
-- 🔭 Estudante de Desenvolvimento de Sistemas
-- 🌱 Estou aprendendo sobre JAVASCRIPT, HTML, CSS, PHP, C#, PROGRAMAÇÃO MOBILE, SQL, ALGORITMOS E DESING DIGITAL.
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Itu
+- 🌱 Estou aprendendo sobre JAVASCRIPT, HTML, CSS, PHP, REACT.JS, SQL, ANGULAR, JAVA, ALGORITMOS E DESING DIGITAL.
 - 😄 Ela/Dela
 
   
