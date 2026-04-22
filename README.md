@@ -15,7 +15,7 @@
  ![LivAristides GitHub stats](https://github-readme-stats.vercel.app/api?username=LivAristides&show_icons=true&theme=radical) 
 
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
